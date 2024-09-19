@@ -1,0 +1,14 @@
+name: Vulcan-Anti
+version: 1.0.0
+main: AntiCheat\Main
+api: 5.0.0
+author: Froz
+description: similar a java de vulcan paid
+commands:
+  ac:
+    description: xd
+    usage: "/ac"
+permissions:
+  alerts.ac:
+    default: op
+    description: xd
