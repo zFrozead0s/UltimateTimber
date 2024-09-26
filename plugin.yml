@@ -1,14 +1,14 @@
 name: Vulcan-Anti
 version: 1.0.0
-main: AntiCheat\Main
+main: AntiCheat\ACLoader
 api: 5.0.0
 author: Froz
 description: similar a java de vulcan paid
-commands:
-  ac:
-    description: xd
-    usage: "/ac"
+
 permissions:
-  alerts.ac:
+  ac.alert:
+    description: "Permite recibir alertas de detecciones de hacks"
     default: op
-    description: xd
+  ac.bypass:
+    description: "Permite evitar las detecciones del anti cheat"
+    default: op
