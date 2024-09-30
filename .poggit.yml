@@ -1,4 +1,4 @@
---- # Poggit-C. Open the CI at https://poggit.pmmp.io/ci/zFrozead0s/UltimateTimber
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/zFrozead0s/UltimateTimber
 build-by-default: true
 branches:
 - main
