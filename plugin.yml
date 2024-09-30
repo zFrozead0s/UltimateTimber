@@ -1,14 +1,6 @@
-name: Vulcan-Anti
+name: UltimateTimber
 version: 1.0.0
-main: AntiCheat\ACLoader
+main: UltimateTimber\Main
 api: 5.0.0
-author: Froz
-description: similar a java de vulcan paid
-
-permissions:
-  ac.alert:
-    description: "Permite recibir alertas de detecciones de hacks"
-    default: op
-  ac.bypass:
-    description: "Permite evitar las detecciones del anti cheat"
-    default: op
+author: Plugin
+description: Plugin para cortar árboles enteros al romper un tronco.
