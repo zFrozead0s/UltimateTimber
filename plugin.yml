@@ -3,4 +3,4 @@ version: 1.0.0
 main: UltimateTimber\Main
 api: 5.0.0
 author: Plugin
-description: Plugin para cortar árboles enteros al romper un tronco.
+description: Plugin to break a tree with braking only 1 oak.
